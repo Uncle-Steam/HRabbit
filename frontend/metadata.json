@@ -1,0 +1,8 @@
+{
+  "name": "Functional Offboarding App",
+  "description": "Intelligent functional offboarding interface that captures critical knowledge gaps from departing employees via interactive interview.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
