@@ -1,16 +1,8 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # HRabbit 🐰
 
 ## AI-Driven Employee Offboarding & Knowledge Transfer System
 
 HRabbit is an intelligent system designed to prevent knowledge loss when employees leave a company. By leveraging IBM Watsonx Orchestrate and AI automation, it streamlines the offboarding process through automated data collection, intelligent gap identification, and AI-conducted exit interviews.
-
-![HRabbit Banner](https://img.shields.io/badge/AI-Powered-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![React](https://img.shields.io/badge/React-TypeScript-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
-
-**View the app in AI Studio:** https://ai.studio/apps/drive/1hn8sNDQYrnOCkK18-5VO43EHa7p1BcWn
 
 ## 🎯 Problem Statement
 
