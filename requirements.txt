@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-community
+atlassian-python-api
+python-dotenv
+chromadb
+tiktoken
+ibm-watsonx-orchestrate

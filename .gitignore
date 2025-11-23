@@ -1,0 +1,10 @@
+.env
+.venv
+src/__pycache__
+connectors/__pycache__
+rag/__pycache__/chain.cpython-313.pyc
+debug_auth.py
+run_search.py
+salesforce_tools.py
+test_tools.py
+verify_tool.py
